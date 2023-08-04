@@ -1,4 +1,4 @@
-- 👋 Ola, sou Robson Júnior, tenho 10 anos, sou estudante de Analise e Desenvolvimento de Sistemas!
+- 👋 Ola, sou Robson Júnior, tenho 18 anos, sou estudante de Analise e Desenvolvimento de Sistemas!
 - Tenho muito interesse na área da programação, desejo entrar na área de Back-end e procuro saber o máximo para ter conhecimento sobre todas as áreas da progamação.
 -  👩‍💻 Python - C# - Js  
 -  👩‍💻 Learning Java
